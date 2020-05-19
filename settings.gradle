@@ -1,0 +1,2 @@
+rootProject.name='PDF Builder'
+include ':app'
